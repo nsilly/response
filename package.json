@@ -1,6 +1,6 @@
 {
   "name": "@nsilly/response",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Package to handle response properly in your API.",
   "scripts": {
     "test": "jest --forceExit",
